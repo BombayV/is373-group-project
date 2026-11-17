@@ -39,11 +39,12 @@ All checks below are planned.
 
 1. **Citation check.** As a reviewer, I can open the passage behind a claim and decide whether it supports the draft. Test a correctly cited draft, then try a missing link, a working link to an unrelated section, and a source record marked superseded. Pass if the correct draft can proceed to human approval and each bad draft stays unpublished with a recorded reason. Fail if a bad draft can publish or the reviewer cannot locate and verify the supporting passage. **Proposed owner:** Jiyeon Choi. **Proposed reviewer:** Sebastian (BombayV).
 2. **Return a draft.** As a reviewer, I can return an inaccurate draft with a reason the author can act on. Pass if the author can see the reason and the returned draft stays out of the student view. Owner and reviewer pending.
-3. **Find the approved guide.** As a student, I can find the approved guide for the intended assignment and open its current source. Returning a draft, stale guide, or wrong assignment fails. Owner and reviewer pending.
+3. **Find the approved guide.** As a student, I can find the approved guide for the intended assignment and open its source link. Pass if the approved version and its source link are accessible from the student view. Fail if the guide is missing, the link is broken, or students see a draft, outdated guide, or guide for another assignment. Owner and reviewer pending.
 
 ### Peer review and contributions
 
-**Peer review request for Sebastian.** Follow the citation from the sample draft back to the original passage. Would an access date and a “current” status catch a same-URL edit, or do we need another way to tell that the passage changed?
+| Peer feedback | Sebastian said the explanation was clear and raised the concern that the guide might not be published correctly. |
+| Team decision and documentation edit | Proposed: Update Story 3 to check that students can open the approved guide and its source link after publication. Team confirmation is pending. |
 
 | Record | Status |
 | --- | --- |
